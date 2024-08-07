@@ -6,7 +6,7 @@
   <p>
     <img src="https://flagcdn.com/w20/sv.png" alt="El Salvador"> <img src="https://flagcdn.com/w20/es.png" alt="España">
   </p>
-  <p>Soy un desarrollador web con doble nacionalidad, El Salvador y España.</p>
+<p>Soy un desarrollador web con doble nacionalidad: El Salvador y España. ¡Así que puedo disfrutar tanto de pupusas como de paellas sin ningún remordimiento! 🇸🇻🇪🇸</p>
 </div>
 
 <div align="center">
