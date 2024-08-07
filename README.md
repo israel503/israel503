@@ -1,7 +1,7 @@
 <!-- README.md -->
 
 <div align="center">
-  <img src="https://via.placeholder.com/120" alt="Profile Image" style="border-radius: 50%; margin-bottom: 20px;">
+ <!--  <img src="https://via.placeholder.com/120" alt="Profile Image" style="border-radius: 50%; margin-bottom: 20px;">-->
   <h1>¡Hola! Soy Israel Molina</h1>
   <p>
     <img src="https://flagcdn.com/w20/sv.png" alt="El Salvador"> <img src="https://flagcdn.com/w20/es.png" alt="España">
