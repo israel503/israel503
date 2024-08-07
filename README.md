@@ -4,9 +4,8 @@
   <!--<img src="https://via.placeholder.com/120" alt="Profile Image" style="border-radius: 50%; margin-bottom: 20px;"> -->
   <h1>¡Hola! Soy Israel Molina</h1>
   <p>
-    <img src="https://flagcdn.com/w20/sv.png" alt="El Salvador"> <img src="https://flagcdn.com/w20/es.png" alt="España">
-  </p>
-<p>Soy un desarrollador web con doble nacionalidad: El Salvador y España. ¡Así que puedo disfrutar tanto de pupusas como de paellas sin ningún remordimiento! 🇸🇻🇪🇸</p>
+<p>Soy desarrollador web y me gustan los desafíos.  </p>
+ Tengo doble nacionalidad: El Salvador y España. ¡Así que puedo disfrutar tanto de pupusas como de paellas sin ningún remordimiento! 🇸🇻🇪🇸</p>
 </div>
 
 <div align="center">
