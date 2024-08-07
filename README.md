@@ -18,7 +18,7 @@
 
 <div align="center">
   <h2>Conéctate conmigo</h2>
-    
+     <p>
     <a href="https://github.com/ISRAEL503" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="GitHub" style="width:40px;">
     </a>
