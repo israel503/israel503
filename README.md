@@ -1,6 +1,7 @@
 # ¡Hola! Soy Israel Molina 👋
 
-### 💻 Desarrollador Web apasionado por la tecnología
+### 💻 Desarrollador Web 
+israelmolina.com | disoweb.com
 
 Soy un consultor web y desarrollador freelance con amplia experiencia en la creación y mantenimiento de sitios web. 🌐 Actualmente resido en España y he tenido la oportunidad de trabajar con diversas agencias tanto en España como en Alemania y varios países de Latinoamérica. 🇪🇸🇩🇪✨ Al ser freelance, tengo la flexibilidad de colaborar de manera remota con agencias fuera del país, adaptándome a tus necesidades y horarios. 🕒
 
