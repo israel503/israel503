@@ -1,16 +1,15 @@
-## Hi there 👋
+# ¡Hola! Soy Israel Molina 👋
 
-<!--
-**israel503/israel503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Desarrollador Web apasionado por la tecnología
+Soy un consultor web y desarrollador freelance con amplia experiencia en la creación y mantenimiento de sitios web. 🌐 Actualmente resido en España y he tenido la oportunidad de trabajar con diversas agencias tanto en España como en Alemania y varios países de Latinoamérica. 🇪🇸🇩🇪✨ Al ser freelance, tengo la flexibilidad de colaborar de manera remota con agencias fuera del país, adaptándome a tus necesidades y horarios. 🕒
 
-Here are some ideas to get you started:
+Además, estoy estudiando formación profesional en desarrollo web, así que siempre estoy al día con las últimas tecnologías y tendencias. 📚💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Ya sea que necesites una página web desde cero o darle mantenimiento a tu sitio existente, estoy aquí para ayudarte a alcanzar tus objetivos en internet. 🚀
+
+
+🌱 Actualmente estoy aprendiendo **Java**
+👨‍💻 Tengo experiencia en proyectos con HTML, CSS, JavaScript, WordPress, Elementor, Divi y otras herramientas.
+💬 Curiosidad cultural: Soy 🇸🇻 salvadoreño-español 🇪🇸, así que tengo el superpoder de disfrutar una buena siesta después de una montaña de pupusas... o de una paella. ¡La doble nacionalidad viene con beneficios culinarios! 😆
+
+¡Gracias por visitar mi perfil!
