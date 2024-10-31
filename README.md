@@ -3,9 +3,11 @@
 ### 💻 Desarrollador Web 
 israelmolina.com | disoweb.com
 
-Soy un consultor web y desarrollador freelance con amplia experiencia en la creación y mantenimiento de sitios web. 🌐 Actualmente resido en España y he tenido la oportunidad de trabajar con diversas agencias tanto en España como en Alemania y varios países de Latinoamérica. 🇪🇸🇩🇪✨ Al ser freelance, tengo la flexibilidad de colaborar de manera remota con agencias fuera del país, adaptándome a tus necesidades y horarios. 🕒
+💻 Soy un consultor web y desarrollador freelance con amplia experiencia en la creación y mantenimiento de sitios web. 
+🌐 Actualmente resido en España y he tenido la oportunidad de trabajar con diversas agencias tanto en España como en Alemania y varios países de Latinoamérica. ✨ 
+🌎 Al ser freelance, tengo la flexibilidad de colaborar de manera remota con agencias fuera del país, adaptándome a tus necesidades y horarios. 🕒
 
-Además, estoy estudiando formación profesional en desarrollo web, así que siempre estoy al día con las últimas tecnologías y tendencias. 📚💻
+📚 Estoy estudiando formación profesional en desarrollo web, así que siempre estoy al día con las últimas tecnologías y tendencias. 📚💻
 
 Ya sea que necesites una página web desde cero o darle mantenimiento a tu sitio existente, estoy aquí para ayudarte a alcanzar tus objetivos en internet. 🚀
 
