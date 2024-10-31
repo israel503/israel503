@@ -7,9 +7,9 @@ Además, estoy estudiando formación profesional en desarrollo web, así que sie
 
 Ya sea que necesites una página web desde cero o darle mantenimiento a tu sitio existente, estoy aquí para ayudarte a alcanzar tus objetivos en internet. 🚀
 
-
+###Acerca de mí
 🌱 Actualmente estoy aprendiendo **Java**
 👨‍💻 Tengo experiencia en proyectos con HTML, CSS, JavaScript, WordPress, Elementor, Divi y otras herramientas.
 💬 Curiosidad cultural: Soy 🇸🇻 salvadoreño-español 🇪🇸, así que tengo el superpoder de disfrutar una buena siesta después de una montaña de pupusas... o de una paella. ¡La doble nacionalidad viene con beneficios culinarios! 😆
 
-¡Gracias por visitar mi perfil!
+###¡Gracias por visitar mi perfil!
