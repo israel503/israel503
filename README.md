@@ -1,7 +1,7 @@
-# ¡Hola! Soy Israel Molina 👋
+# ¡Hola! Soy Israel Lobos 👋
 
 ### 💻 Desarrollador Web 
-israelmolina.com | disoweb.com
+| disoweb.com
 
 💻 Soy un consultor web y desarrollador freelance con amplia experiencia en la creación y mantenimiento de sitios web. 
 🌐 Actualmente resido en España y he tenido la oportunidad de trabajar con diversas agencias tanto en España como en Alemania y varios países de Latinoamérica. ✨ 
